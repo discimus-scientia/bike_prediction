@@ -1,0 +1,6 @@
+{
+  "name": "Prediction of Bike Rentals",
+  "tagline": "",
+  "body": "This is a small machine learning side project with the aim of predicting the count of [rental bikes](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset) with Python. More infos can be found in the IPython notebook. \r\n\r\n#### Acknowledgements\r\n\r\nI would like to express my thanks to the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml) for providing the dataset.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
